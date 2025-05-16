@@ -6,7 +6,7 @@
 #define f(x) x*x*x - 2*x - 5
 
 void main(){
-	 printf("Mayank Singh / 230111954 / 35 / I1\n");
+	 printf("harleen kaur/ 230123293 \n");
 	 float x0, x1, x2, f0, f1, f2, e;
 	 int step = 1, N;
 	 printf("\nEnter initial guesses:\n");
