@@ -57,7 +57,7 @@
 // #include<stdlib.h>
 
 // int main(){
-//     printf("Mayank Singh / 230111954 / 35 / I1\n");
+//     printf("harleen kaur\n");
 //     int n, fact = 1;
 //     float x, u, y, newU;
 
